@@ -1,0 +1,7 @@
+E:\лабыkpiyap\laba3\laba3\bin\Debug\laba3.exe.config
+E:\лабыkpiyap\laba3\laba3\bin\Debug\laba3.exe
+E:\лабыkpiyap\laba3\laba3\bin\Debug\laba3.pdb
+E:\лабыkpiyap\laba3\laba3\obj\Debug\laba3.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\laba3\laba3\obj\Debug\laba3.exe
+E:\лабыkpiyap\laba3\laba3\obj\Debug\laba3.pdb
