@@ -1,0 +1,7 @@
+E:\лабыkpiyap\laba4\laba4\bin\Debug\laba4.exe.config
+E:\лабыkpiyap\laba4\laba4\bin\Debug\laba4.exe
+E:\лабыkpiyap\laba4\laba4\bin\Debug\laba4.pdb
+E:\лабыkpiyap\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\laba4\laba4\obj\Debug\laba4.exe
+E:\лабыkpiyap\laba4\laba4\obj\Debug\laba4.pdb
