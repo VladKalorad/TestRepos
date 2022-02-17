@@ -1,0 +1,7 @@
+E:\лабыkpiyap\kpiayp5\kpiayp5\bin\Debug\kpiayp5.exe.config
+E:\лабыkpiyap\kpiayp5\kpiayp5\bin\Debug\kpiayp5.exe
+E:\лабыkpiyap\kpiayp5\kpiayp5\bin\Debug\kpiayp5.pdb
+E:\лабыkpiyap\kpiayp5\kpiayp5\obj\Debug\kpiayp5.csproj.AssemblyReference.cache
+E:\лабыkpiyap\kpiayp5\kpiayp5\obj\Debug\kpiayp5.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\kpiayp5\kpiayp5\obj\Debug\kpiayp5.exe
+E:\лабыkpiyap\kpiayp5\kpiayp5\obj\Debug\kpiayp5.pdb
